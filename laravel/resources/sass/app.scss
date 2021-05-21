@@ -1,0 +1,12 @@
+//
+ul{
+    list-style: none;
+    a{
+        text-decoration: none;
+    
+        &:hover{
+
+            color: rgb(122, 122, 122);
+        }
+    }
+}
